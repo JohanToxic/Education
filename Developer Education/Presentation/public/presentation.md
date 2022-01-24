@@ -1255,7 +1255,7 @@ public async Task<IActionResult> Add(AddToCartViewModel model)
 
 * Handles the transfer of money from buyer to merchant
 
-* Charcges a _commission_ for this service
+* charges a _commission_ for this service
 
 ---
 
